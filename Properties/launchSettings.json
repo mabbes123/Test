@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SPI": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\marwen.abbes\\Desktop\\SPI\\bin\\Debug\\net6.0-windows\\SPI.exe",
+      "workingDirectory": "C:\\Users\\marwen.abbes\\Desktop\\SPI\\bin\\Debug\\net6.0-windows"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SPI", "SPI.csproj", "{61ABD339-90F2-47F6-B6CC-17AD745B27FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{AD64BA27-1D63-4921-923E-FA9BDDB5D31D}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+		Class2.cs = Class2.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B0DE682B-4CF6-4642-9BD1-85C40D0F9CA2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61ABD339-90F2-47F6-B6CC-17AD745B27FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61ABD339-90F2-47F6-B6CC-17AD745B27FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61ABD339-90F2-47F6-B6CC-17AD745B27FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61ABD339-90F2-47F6-B6CC-17AD745B27FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02C301F0-2890-4027-B7EC-A520674516FC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,55 @@
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Gestion Creme a Braser (GCB).exe
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Gestion Creme a Braser (GCB).deps.json
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Gestion Creme a Braser (GCB).runtimeconfig.json
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Gestion Creme a Braser (GCB).dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Gestion Creme a Braser (GCB).pdb
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion Creme a Braser (GCB).csproj.AssemblyReference.cache
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion Creme a Braser (GCB).csproj.GenerateResource.cache
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion Creme a Braser (GCB).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion Creme a Braser (GCB).AssemblyInfoInputs.cache
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion Creme a Braser (GCB).AssemblyInfo.cs
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion Creme a Braser (GCB).csproj.CoreCompileInputs.cache
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion Creme a Braser (GCB).dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\refint\Gestion Creme a Braser (GCB).dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion Creme a Braser (GCB).pdb
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion Creme a Braser (GCB).genruntimeconfig.cache
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\ref\Gestion Creme a Braser (GCB).dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion_Creme_a_Braser__GCB_.Properties.Resources.resources
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion Creme a Braser (GCB).csproj.CopyComplete
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion_Creme_a_Braser__GCB_.Users.resources
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion_Creme_a_Braser__GCB_.Authentification.resources
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion_Creme_a_Braser__GCB_.GCMS.resources
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion_Creme_a_Braser__GCB_.GFrigot.resources
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion_Creme_a_Braser__GCB_.References.resources
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion_Creme_a_Braser__GCB_.CremeInfo.resources
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion_Creme_a_Braser__GCB_.Loading.resources
+C:\Users\Ramzi.Blibech\Desktop\Gestion Creme a Braser (GCB)\Gestion Creme a Braser (GCB)\obj\Debug\net6.0-windows\Gestion_Creme_a_Braser__GCB_.Authentification2.resources
